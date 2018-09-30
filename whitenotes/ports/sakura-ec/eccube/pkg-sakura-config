@@ -1,0 +1,7 @@
+SETUPURL|ctrl|html/install.php|
+USE_MYSQL|ctrl|5.1|
+LICENSE|ctrl|GPLv2|
+SAKURADUP|ctrl||
+CGISUBDIR|dir|must=y|
+DBPREFIX|char|must=y,noup=y,rand=y,def=ec|テーブルの接頭語を入力してください
+UPDATE|ctrl|0|
